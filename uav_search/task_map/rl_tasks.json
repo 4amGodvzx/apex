@@ -1,0 +1,326 @@
+[
+    {
+        "task_id": 0,
+        "map": "BrushifyUrban",
+        "object_name": "Blue Car",
+        "difficulty": "Medium",
+        "description": "Rectangular sedan shape with four doors, light blue metallic finish, rear spoiler and tinted windows, intended for ground transport.",
+        "start_position": [262.0,-898.0,-6.0],
+        "object_position": [215.0,-890.0,2.0]
+    },
+    {
+        "task_id": 1,
+        "map": "BrushifyUrban",
+        "object_name": "PlaygroundSet",
+        "difficulty": "Simple",
+        "description": "Multi-functional wooden play structure with slide, climbing wall, swings, and elevated playhouse, red and green painted surfaces, intended for children.",
+        "start_position": [1301.0,-1028.0,-6.0],
+        "object_position": [1263.0,-989.0,2.0]
+    },
+    {
+        "task_id": 2,
+        "map": "BrushifyUrban",
+        "object_name": "Campervan",
+        "difficulty": "Simple",
+        "description": "Geometric boxy form, beige exterior with brown and orange stripes, multiple windows, rooftop ladder, and rear spare tire, designed for mobile living or travel.",
+        "start_position": [319.0,-635.0,-6.0],
+        "object_position": [354.0,-630.0,2.0]
+    },
+    {
+        "task_id": 3,
+        "map": "BrushifyUrban",
+        "object_name": "Black Dog",
+        "difficulty": "Hard",
+        "description": "Organic quadruped shape, short dark fur, muscular body with upright sitting posture and alert ears, near a garbage bin.",
+        "start_position": [1226.0,-366.0,-6.0],
+        "object_position": [1258.0,-334.0,1.5]
+    },
+    {
+        "task_id": 4,
+        "map": "CabinLake",
+        "object_name": "Boat",
+        "difficulty": "Medium",
+        "description": "Geometric hull-shaped body, weathered wooden texture with visible grain and plank seams, interior with crosswise benches, used for small-scale water transport or fishing.",
+        "start_position": [-30.0,114.0,-6.0],
+        "object_position": [-72.0,151.0,2.0]
+    },
+    {
+        "task_id": 5,
+        "map": "CabinLake",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, dark shirt and jeans with black boots, bald head and muscular build, generic humanoid model used for simulation or testing.",
+        "start_position": [-111.0,277.0,-8.0],
+        "object_position": [-86.0,243.0,0.0]
+    },
+    {
+        "task_id": 6,
+        "map": "CabinLake",
+        "object_name": "BeachChair",
+        "difficulty": "Hard",
+        "description": "Foldable, beige woven fabric with metal frame, lightweight and portable, used for outdoor seating.",
+        "start_position": [-67.0,133.0,-6.0],
+        "object_position": [-79.0,147.0,1.5]
+    },
+    {
+        "task_id": 7,
+        "map": "CabinLake",
+        "object_name": "Tent",
+        "difficulty": "Simple",
+        "description": "Dome-shaped structure, gray fabric with red trim, supported by curved poles, suitable for outdoor shelter or camping.",
+        "start_position": [-52.0,169.0,-8.0],
+        "object_position": [-46.0,152.0,0.0]
+    },
+    {
+        "task_id": 8,
+        "map": "DownTown",
+        "object_name": "Forklift",
+        "difficulty": "Hard",
+        "description": "Geometric industrial form, yellow and black metal body with exposed lift arms, rugged tires and dual front prongs, designed for lifting and transporting heavy loads.",
+        "start_position": [17.0,61.0,-10.0],
+        "object_position": [-5.0,19.0,-0.0]
+    },
+    {
+        "task_id": 9,
+        "map": "DownTown",
+        "object_name": "Bull",
+        "difficulty": "Medium",
+        "description": "Organic quadruped form, reddish-brown fur with muscular build, prominent forward-curving horns and visible snout, livestock or ranch animal typically used for breeding or agricultural display.",
+        "start_position": [47.0,-108.0,-10.0],
+        "object_position": [55.0,-76.0,-3.0]
+    },
+    {
+        "task_id": 10,
+        "map": "DownTown",
+        "object_name": "Crane",
+        "difficulty": "Medium",
+        "description": "Geometric elongated form with mounted machinery, industrial yellow and black color scheme with metallic components, visible concrete boom folded atop chassis, used for transporting and pumping concrete.",
+        "start_position": [-51.0,-14.0,-10.0],
+        "object_position": [-30.0,-11.0,-0.0]
+    },
+    {
+        "task_id": 11,
+        "map": "DownTown",
+        "object_name": "PlayScape",
+        "difficulty": "Simple",
+        "description": "Geometric composite structure, yellow-painted wood and red plastic, includes curved slide, rope ladder, and elevated platforms, designed for children's recreational climbing and sliding.",
+        "start_position": [-24.0,-16.0,-10.0],
+        "object_position": [-5.0,1.0,0.0]
+    },
+    {
+        "task_id": 12,
+        "map": "Neighborhood",
+        "object_name": "Statue",
+        "difficulty": "Medium",
+        "description": "Geometric base with organic quadruped figure, bronze metallic finish on animal, red brick pedestal with engraved plaque, commemorative decorative function.",
+        "start_position": [-10.0,107.0,-7.0],
+        "object_position": [-14.0,78.0,1.0]
+    },
+    {
+        "task_id": 13,
+        "map": "Neighborhood",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, black tactical outfit with visible vest details and bald head, visually identifiable as a walking person.",
+        "start_position": [-205.0,-105.0,-14.0],
+        "object_position": [-165.0,-146.0,0.0]
+    },
+    {
+        "task_id": 14,
+        "map": "Neighborhood",
+        "object_name": "Bench",
+        "difficulty": "Medium",
+        "description": "Geometric seating structure, brown wooden slats with black metal frame, slatted backrest and seat, public resting function.",
+        "start_position": [-292.0,-170.0,-7.0],
+        "object_position": [-274.0,-154.0,1.0]
+    },
+    {
+        "task_id": 15,
+        "map": "Neighborhood",
+        "object_name": "Excavator",
+        "difficulty": "Medium",
+        "description": "Geometric tracked vehicle form, yellow and black painted metal body with long articulated arm and large digging bucket, labeled \"steel,\" used for heavy-duty earthmoving and excavation tasks.",
+        "start_position": [-131.0,59.0,-7.0],
+        "object_position": [-176.0,32.0,1.0]
+    },
+    {
+        "task_id": 16,
+        "map": "Slum",
+        "object_name": "Cart",
+        "difficulty": "Hard",
+        "description": "Rectangular wooden frame, medium brown timber with metal wheel rims, dual spoked wheels and extended pull handles, used for manual transportation of goods.",
+        "start_position": [0.0,17.0,-10.0],
+        "object_position": [-35.0,23.0,4.0]
+    },
+    {
+        "task_id": 17,
+        "map": "Slum",
+        "object_name": "Red Car",
+        "difficulty": "Hard",
+        "description": "Geometric four-wheeled form, weathered turquoise exterior with rust patches and worn finish, sunroof and five-door configuration, suitable for personal ground transport.",
+        "start_position": [27.0,-16.0,-10.0],
+        "object_position": [-11.0,25.0,0.0]
+    },
+    {
+        "task_id": 18,
+        "map": "Slum",
+        "object_name": "Flag",
+        "difficulty": "Medium",
+        "description": "Organic flowing form, black and green fabric with white printed text, fluttering motion and pole attachment, used for visual display or signaling.",
+        "start_position": [11.0,5.0,-10.0],
+        "object_position": [-7.0,10.0,-5.0]
+    },
+    {
+        "task_id": 19,
+        "map": "Slum",
+        "object_name": "Wooden Wheel",
+        "difficulty": "Hard",
+        "description": "Circular form, dark wooden texture with metal-rimmed edge, spoked hub design, used as a component for carts or similar transport structures.",
+        "start_position": [-68.0,-2.0,-10.0],
+        "object_position": [-32.0,26.0,3.0]
+    },
+    {
+        "task_id": 20,
+        "map": "UrbanJapan",
+        "object_name": "White Truck",
+        "difficulty": "Hard",
+        "description": "Geometric rectangular form, matte gray metal exterior with ribbed roof and dual rear doors, black trim and utility detailing, designed for cargo transport or delivery use.",
+        "start_position": [55.0,8.0,-6.0],
+        "object_position": [8.0,2.0,2.0]
+    },
+    {
+        "task_id": 21,
+        "map": "UrbanJapan",
+        "object_name": "RoadBarrier",
+        "difficulty": "Medium",
+        "description": "Geometric rectangular form, bright red plastic body with molded edges and dual slots, flat top and angled sides, used to block or direct vehicle and pedestrian traffic.",
+        "start_position": [31.0,181.0,-6.0],
+        "object_position": [11.0,153.0,0.0]
+    },
+    {
+        "task_id": 22,
+        "map": "UrbanJapan",
+        "object_name": "Shovel",
+        "difficulty": "Hard",
+        "description": "Geometric elongated form, metallic blade with dark handle and slight curve, narrow vertical profile, used for digging or scooping material.",
+        "start_position": [10.0,178.0,-7.0],
+        "object_position": [14.0,164.0,1.0]
+    },
+    {
+        "task_id": 23,
+        "map": "UrbanJapan",
+        "object_name": "SteamRoller",
+        "difficulty": "Simple",
+        "description": "Geometric industrial form, yellow-orange body with black cabin and large cylindrical front roller, thick rear tires and safety railing, used for compacting road surfaces in construction.",
+        "start_position": [29.0,142.0,-6.0],
+        "object_position": [13.0,157.0,2.0]
+    },
+    {
+        "task_id": 24,
+        "map": "Venice",
+        "object_name": "VendingMachine",
+        "difficulty": "Hard",
+        "description": "Geometric rectangular form, glossy red metal casing with transparent front panel, internal grid of drink bottles and digital display, functions as automated beverage dispenser.",
+        "start_position": [143.0,49.0,-10.0],
+        "object_position": [136.0,81.0,1.0]
+    },
+    {
+        "task_id": 25,
+        "map": "Venice",
+        "object_name": "Church",
+        "difficulty": "Medium",
+        "description": "Geometric rectangular and polygonal forms, beige stucco and stone exterior with red gabled tiled roofs, multiple arched stained-glass windows and buttressed corners, religious structure designed for congregational worship.",
+        "start_position": [-11.0,192.0,-10.0],
+        "object_position": [23.0,176.0,1.0]
+    },
+    {
+        "task_id": 26,
+        "map": "Venice",
+        "object_name": "Umbrella",
+        "difficulty": "Medium",
+        "description": "Geometric octagonal canopy, red and white alternating fabric panels with scalloped edges, supported by a central white pole, used for providing shade in outdoor settings.",
+        "start_position": [64.0,83.0,-10.0],
+        "object_position": [20.0,48.0,1.0]
+    },
+    {
+        "task_id": 27,
+        "map": "Venice",
+        "object_name": "Fountain",
+        "difficulty": "Simple",
+        "description": "Geometric circular form, light gray stone with carved floral motifs, tiered basins with central water spout, ornamental structure used for water display in public or garden spaces.",
+        "start_position": [27.0,35.0,-14.0],
+        "object_position": [40.0,16.0,1.0]
+    },
+    {
+        "task_id": 28,
+        "map": "WesternTown",
+        "object_name": "WaterWell",
+        "difficulty": "Hard",
+        "description": "Rectangular base with vertical supports and gabled roof, weathered wood and stone textures, rope-and-bucket mechanism visible, used for drawing water manually.",
+        "start_position": [-58.0,49.0,-10.0],
+        "object_position": [-30.0,26.0,1.0]
+    },
+    {
+        "task_id": 29,
+        "map": "WesternTown",
+        "object_name": "WaterTower",
+        "difficulty": "Medium",
+        "description": "Cylindrical tank on tall wooden support structure, weathered dark metal with wooden platform base and side ladder, elevated for water storage and gravity-fed distribution.",
+        "start_position": [-13.0,27.0,-10.0],
+        "object_position": [-21.0,47.0,-1.0]
+    },
+    {
+        "task_id": 30,
+        "map": "WesternTown",
+        "object_name": "Table",
+        "difficulty": "Simple",
+        "description": "Geometric square form, light brown wooden planks with visible grain texture, X-shaped folding legs and compact tabletop, suitable for outdoor dining or utility use.",
+        "start_position": [142.0,-339.0,-10.0],
+        "object_position": [129.0,-360.0,-1.0]
+    },
+    {
+        "task_id": 31,
+        "map": "WesternTown",
+        "object_name": "SignPost",
+        "difficulty": "Medium",
+        "description": "Vertical post with perpendicular flat boards, weathered wood texture, directional arrow-shaped signs with faded text, used for navigation or wayfinding.",
+        "start_position": [-21.0,26.0,-12.0],
+        "object_position": [-21.0,10.0,1.0]
+    },
+    {
+        "task_id": 32,
+        "map": "WinterTown",
+        "object_name": "TrashBin",
+        "difficulty": "Hard",
+        "description": "Rectangular upright shape, dark metallic texture with a slanted top and front-facing opening, designed for public waste disposal.",
+        "start_position": [-46.0,-56.0,-10.0],
+        "object_position": [-78.0,-71.0,12.0]
+    },
+    {
+        "task_id": 33,
+        "map": "WinterTown",
+        "object_name": "White Boat",
+        "difficulty": "Simple",
+        "description": "Geometric hull shape with tapered bow, smooth white surface with metallic details, visible seating and small motor mount, used for water transport or recreation.",
+        "start_position": [91.0,-89.0,5.0],
+        "object_position": [80.0,-59.0,21.0]
+    },
+    {
+        "task_id": 34,
+        "map": "WinterTown",
+        "object_name": "Penguin",
+        "difficulty": "Simple",
+        "description": "Organic upright form, black and white plumage with yellow crest markings, flipper-like wings and webbed feet, used to represent an arctic bird species.",
+        "start_position": [23.0,-150.0,5.0],
+        "object_position": [-2.0,-157.0,20.0]
+    },
+    {
+        "task_id": 35,
+        "map": "WinterTown",
+        "object_name": "Orange Car",
+        "difficulty": "Hard",
+        "description": "Geometric four-wheeled form, matte orange body with black-tinted windows, integrated spoiler and sunroof, used for personal ground transport.",
+        "start_position": [-4.0,-55.0,-10.0],
+        "object_position": [-39.0,-54.0,12.0]
+    }
+]

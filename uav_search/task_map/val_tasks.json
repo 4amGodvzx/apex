@@ -1,0 +1,2162 @@
+[
+    {
+        "task_id": 0,
+        "geodesic_distance": 81,
+        "map": "BrushifyUrban",
+        "object_name": "Forklift",
+        "difficulty": "Medium",
+        "description": "Geometric compact vehicle with vertical lifting frame, yellow and black color scheme with \"steel\" branding, twin front forks for cargo handling, used for lifting and moving materials in industrial settings.",
+        "start_position": [
+                1083.303985111396,
+                -1037.5592096648413,
+                -10.0
+            ],
+        "object_position": [
+                1115.0999755859375,
+                -996.2999877929688,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 1,
+        "geodesic_distance": 74,
+        "map": "BrushifyUrban",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, dark blue jacket with black pants, bald head and black shoes, likely in motion such as walking or running.",
+        "start_position": [
+                689.6437366359802,
+                -503.2784150188738,
+                -10.0
+            ],
+        "object_position": [
+                659.7999877929688,
+                -464.79998779296875,
+                0.887078583240509
+            ]
+    },
+    {
+        "task_id": 2,
+        "geodesic_distance": 65,
+        "map": "BrushifyUrban",
+        "object_name": "VendingMachine",
+        "difficulty": "Medium",
+        "description": "Tall rectangular metal cabinet with glass front displaying beverages, red body with white signage, intended for dispensing drinks and snacks.",
+        "start_position": [
+                173.55117793684082,
+                -9.295466207604392,
+                -10.0
+            ],
+        "object_position": [
+                213.3699951171875,
+                -27.559999465942383,
+                1.7999999523162842
+            ]
+    },
+    {
+        "task_id": 3,
+        "geodesic_distance": 27,
+        "map": "BrushifyUrban",
+        "object_name": "Sandbox",
+        "difficulty": "Medium",
+        "description": "Circular structure with low stone walls, dark rubber tire edging, filled with sand, intended for play or recreation.",
+        "start_position": [
+                1270.7444149827693,
+                -993.9627094984413,
+                -10.0
+            ],
+        "object_position": [
+                1270.2999267578125,
+                -974.5999755859375,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 4,
+        "geodesic_distance": 80,
+        "map": "BrushifyUrban",
+        "object_name": "PlaygroundSet",
+        "difficulty": "Medium",
+        "description": "Multi-level wooden play structure with enclosed spiral slide, rope climbing net, and elevated platforms, yellow and red color scheme, intended for children's recreational use.",
+        "start_position": [
+                1250.5156346994656,
+                -1037.085694804847,
+                -10.0
+            ],
+        "object_position": [
+                1273.699951171875,
+                -988.5,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 5,
+        "geodesic_distance": 60,
+        "map": "BrushifyUrban",
+        "object_name": "Flag",
+        "difficulty": "Medium",
+        "description": "Geometric vertical pole, metallic shaft with a cloth flag featuring red, white, and blue colors, diagonal mounting position with a waving fabric, used for signaling or identification.",
+        "start_position": [
+                556.5938403046046,
+                -976.2661333968842,
+                -10.0
+            ],
+        "object_position": [
+                512.2000122070312,
+                -962.699951171875,
+                -3.799999952316284
+            ]
+    },
+    {
+        "task_id": 6,
+        "geodesic_distance": 34,
+        "map": "BrushifyUrban",
+        "object_name": "Fountain",
+        "difficulty": "Medium",
+        "description": "Large circular stone structure with two-tiered basins and a central statue, flowing water and ornate detailing, intended for decorative or recreational purposes.",
+        "start_position": [
+                595.6057555875456,
+                -1014.379915019302,
+                -10.0
+            ],
+        "object_position": [
+                590.7999877929688,
+                -991.3999633789062,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 7,
+        "geodesic_distance": 64,
+        "map": "BrushifyUrban",
+        "object_name": "Umbrella",
+        "difficulty": "Medium",
+        "description": "Geometric radial canopy form, red and white striped fabric on a central black pole, branded with \"GREEN PARK\" text, used for providing shade in outdoor settings.",
+        "start_position": [
+                499.04317182250577,
+                -1103.2219832637986,
+                -10.0
+            ],
+        "object_position": [
+                454.8999938964844,
+                -1091.0,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 8,
+        "geodesic_distance": 50,
+        "map": "BrushifyUrban",
+        "object_name": "Table",
+        "difficulty": "Medium",
+        "description": "Geometric square form, glossy red surface with curved metal legs, uniform tabletop with no additional features, intended for general use or dining.",
+        "start_position": [
+                438.5786538502425,
+                -1066.7373072515495,
+                -10.0
+            ],
+        "object_position": [
+                456.5,
+                -1092.699951171875,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 9,
+        "geodesic_distance": 52,
+        "map": "BrushifyUrban",
+        "object_name": "Chair",
+        "difficulty": "Medium",
+        "description": "Geometric upright form, solid red material with a basic backrest and four thin legs, unadorned frame with no cushioning, designed for seating.",
+        "start_position": [
+                448.77746145142225,
+                -1056.3456619411966,
+                -10.0
+            ],
+        "object_position": [
+                456.3999938964844,
+                -1094.0,
+                1.899999976158142
+            ]
+    },
+    {
+        "task_id": 10,
+        "geodesic_distance": 43,
+        "map": "CabinLake",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, brown long-sleeve shirt with blue jeans, bald head with distinct facial features, standard character model suitable for simulation or NPC use.",
+        "start_position": [
+                -85.92441133364356,
+                267.1933700303852,
+                -10.0
+            ],
+        "object_position": [
+                -76.9000015258789,
+                238.29998779296875,
+                -0.26432228088378906
+            ]
+    },
+    {
+        "task_id": 11,
+        "geodesic_distance": 70,
+        "map": "CabinLake",
+        "object_name": "Boat",
+        "difficulty": "Medium",
+        "description": "Geometric hull-shaped body, weathered wooden texture with visible grain and plank seams, interior with crosswise benches, used for small-scale water transport or fishing.",
+        "start_position": [
+                -38.43270634318303,
+                180.45372177018544,
+                -10.0
+            ],
+        "object_position": [
+                -72.0,
+                150.8000030517578,
+                2.0999999046325684
+            ]
+    },
+    {
+        "task_id": 12,
+        "geodesic_distance": 47,
+        "map": "CabinLake",
+        "object_name": "PicnicTable",
+        "difficulty": "Medium",
+        "description": "Rectangular wooden structure with attached benches, natural wood finish, sturdy and simple design, suitable for outdoor seating and dining.",
+        "start_position": [
+                -66.56030572562493,
+                131.33568134284513,
+                -10.0
+            ],
+        "object_position": [
+                -43.89999771118164,
+                148.8000030517578,
+                0.09999999403953552
+            ]
+    },
+    {
+        "task_id": 13,
+        "geodesic_distance": 82,
+        "map": "CabinLake",
+        "object_name": "Surfboard",
+        "difficulty": "Medium",
+        "description": "Oval-shaped, yellow with orange stripe, smooth and flat surface, used for water surfing.",
+        "start_position": [
+                -189.65386729726833,
+                130.81545469531312,
+                -10.0
+            ],
+        "object_position": [
+                -148.89999389648438,
+                165.0,
+                0.5999999642372131
+            ]
+    },
+    {
+        "task_id": 14,
+        "geodesic_distance": 51,
+        "map": "CabinLake",
+        "object_name": "Table",
+        "difficulty": "Medium",
+        "description": "Rectangular structure with green metal legs, blue and white checkered tablecloth, suitable for dining or outdoor use.",
+        "start_position": [
+                -144.11967285249526,
+                -33.7407085013384,
+                -13.799999713897705
+            ],
+        "object_position": [
+                -173.09999084472656,
+                -15.399999618530273,
+                -5.799999713897705
+            ]
+    },
+    {
+        "task_id": 15,
+        "geodesic_distance": 89,
+        "map": "CabinLake",
+        "object_name": "Dumpster",
+        "difficulty": "Medium",
+        "description": "Rectangular boxy form, weathered green metal with black lid, wheeled base and hinge-top cover, used for storing large volumes of waste or recyclables.",
+        "start_position": [
+                -146.712139301498,
+                16.491287449305972,
+                -13.799999713897705
+            ],
+        "object_position": [
+                -193.6999969482422,
+                -22.899999618530273,
+                -5.799999713897705
+            ]
+    },
+    {
+        "task_id": 16,
+        "geodesic_distance": 69,
+        "map": "CabinLake",
+        "object_name": "TrashCan",
+        "difficulty": "Medium",
+        "description": "Cylindrical shape, metallic silver with vertical ridges and domed lid, simple classic design with slight wear, used for disposing small waste items.",
+        "start_position": [
+                -193.91986298005685,
+                -46.54230242266119,
+                -13.799999713897705
+            ],
+        "object_position": [
+                -171.89999389648438,
+                -4.599999904632568,
+                -5.799999713897705
+            ]
+    },
+    {
+        "task_id": 17,
+        "geodesic_distance": 49,
+        "map": "CabinLake",
+        "object_name": "StatueDeer",
+        "difficulty": "Medium",
+        "description": "Organic quadruped form, dark brown textured surface with detailed antlers and a rocky pedestal, realistic sculpture features, ornamental representation of a deer.",
+        "start_position": [
+                -136.57663909000846,
+                146.98063679364003,
+                -8.5
+            ],
+        "object_position": [
+                -105.0999984741211,
+                133.0,
+                -0.5
+            ]
+    },
+    {
+        "task_id": 18,
+        "geodesic_distance": 77,
+        "map": "CabinLake",
+        "object_name": "StreetSign",
+        "difficulty": "Medium",
+        "description": "Vertical pole-mounted form, dark brown wood with an embossed plaque, features engraved emblem and text, used for labeling or informational display.",
+        "start_position": [
+                -49.104601970627286,
+                -25.255635460877652,
+                -13.966649055480957
+            ],
+        "object_position": [
+                -96.92691802978516,
+                0.6262450814247131,
+                -5.966649055480957
+            ]
+    },
+    {
+        "task_id": 19,
+        "geodesic_distance": 42,
+        "map": "CabinLake",
+        "object_name": "Tarp",
+        "difficulty": "Medium",
+        "description": "Flexible square shape, beige woven synthetic fabric, tensioned with ropes at corners and slight center sag, used as covering or shelter.",
+        "start_position": [
+                -56.36643915754466,
+                276.9992519827631,
+                -8.5
+            ],
+        "object_position": [
+                -81.19999694824219,
+                262.1999816894531,
+                -0.5
+            ]
+    },
+    {
+        "task_id": 20,
+        "map": "DownTown",
+        "geodesic_distance": 77,
+        "object_name": "Grill",
+        "difficulty": "Medium",
+        "description": " Geometric cylindrical form on four thin legs, matte black metal surface with open-lid design, compact structure indicating function as an outdoor charcoal or gas barbecue.",
+        "start_position": [
+                28.237651777045002,
+                -38.09302118480698,
+                -10.0
+            ],
+        "object_position": [
+                -7.08957052230835,
+                -2.945465087890625,
+                0.3021824359893799
+            ]
+    },
+    {
+        "task_id": 21,
+        "geodesic_distance": 46,
+        "map": "DownTown",
+        "object_name": "Tent",
+        "difficulty": "Medium",
+        "description": " Geometric dome shape, dark blue synthetic fabric with yellow frame supports, taut surface texture and ground anchoring cords, designed for temporary outdoor shelter.",
+        "start_position": [
+                14.432487528482682,
+                18.628639447498784,
+                -10.0
+            ],
+        "object_position": [
+                -8.67320442199707,
+                1.3447434902191162,
+                0.3021824359893799
+            ]
+    },
+    {
+        "task_id": 22,
+        "geodesic_distance": 72,
+        "map": "DownTown",
+        "object_name": "Cart",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular body, blue metallic texture with wear marks, mounted on caster wheels with side handles, used for mobile transport or storage.",
+        "start_position": [
+                36.81758231128431,
+                50.29379916805297,
+                -10.0
+            ],
+        "object_position": [
+                11.021444320678711,
+                7.448932647705078,
+                -0.24489113688468933
+            ]
+    },
+    {
+        "task_id": 23,
+        "geodesic_distance": 58,
+        "map": "DownTown",
+        "object_name": "Trailer",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular body with curved roof, weathered metal siding in blue and green with rust patches, mounted on a single axle with rear lights and windows, designed for mobile habitation or transport.",
+        "start_position": [
+                -21.401695588747376,
+                17.351400920323805,
+                -10.0
+            ],
+        "object_position": [
+                24.036035537719727,
+                9.723607063293457,
+                -0.27368447184562683
+            ]
+    },
+    {
+        "task_id": 24,
+        "geodesic_distance": 23,
+        "map": "DownTown",
+        "object_name": "Mailbox",
+        "difficulty": "Medium",
+        "description": " Geometric cylindrical box on a vertical post, metallic blue surface with front-opening door, slender support pole indicating use for postal deliveries.",
+        "start_position": [
+                16.672154924860294,
+                13.179219741892524,
+                -10.0
+            ],
+        "object_position": [
+                20.321693420410156,
+                -1.1890709400177002,
+                -0.27368447184562683
+            ]
+    },
+    {
+        "task_id": 25,
+        "geodesic_distance": 30,
+        "map": "DownTown",
+        "object_name": "Piano",
+        "difficulty": "Medium",
+        "description": " Geometric upright form, dark stained wooden body with ornate carvings, visible ivory-like keys, designed for musical performance.",
+        "start_position": [
+                8.654681791245473,
+                -8.719203742811267,
+                -10.0
+            ],
+        "object_position": [
+                1.8939533233642578,
+                9.69481372833252,
+                -0.24489113688468933
+            ]
+    },
+    {
+        "task_id": 26,
+        "geodesic_distance": 37,
+        "map": "DownTown",
+        "object_name": "PicnicTable",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form, dark-stained wood texture, slatted tabletop with integrated bench seating, suitable for outdoor dining or rest.",
+        "start_position": [
+                -28.413474996678936,
+                44.395490200760804,
+                -10.0
+            ],
+        "object_position": [
+                -40.89295959472656,
+                63.48078536987305,
+                -0.043337706476449966
+            ]
+    },
+    {
+        "task_id": 27,
+        "geodesic_distance": 38,
+        "map": "DownTown",
+        "object_name": "GrainSilo",
+        "difficulty": "Medium",
+        "description": " Geometric cylindrical form, matte black metal surface, vertical segmentation with rooftop hatch and attached external ladder, used for bulk grain storage in agricultural settings.",
+        "start_position": [
+                57.327649283272855,
+                -100.13216955969321,
+                -10.0
+            ],
+        "object_position": [
+                44.133792877197266,
+                -78.64317321777344,
+                -2.087665319442749
+            ]
+    },
+    {
+        "task_id": 28,
+        "geodesic_distance": 75,
+        "map": "DownTown",
+        "object_name": "Playscape",
+        "difficulty": "Medium",
+        "description": " Geometric composite structure, yellow-painted wood and red plastic, includes curved slide, rope ladder, and elevated platforms, designed for children's recreational climbing and sliding.",
+        "start_position": [
+                28.06498778032899,
+                -35.30647817311341,
+                -10.0
+            ],
+        "object_position": [
+                -4.872482776641846,
+                1.3735368251800537,
+                0.2445957511663437
+            ]
+    },
+    {
+        "task_id": 29,
+        "geodesic_distance": 33,
+        "map": "DownTown",
+        "object_name": "DumpTruck",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form, industrial yellow and black metal body, open cargo bed and reinforced undercarriage with six wheels, used for transporting bulk construction materials.",
+        "start_position": [
+                -24.9780593351895,
+                9.34353794408554,
+                -10.0
+            ],
+        "object_position": [
+                -7.723024368286133,
+                19.25420570373535,
+                -0.24489113688468933
+            ]
+    },
+    {
+        "task_id": 30,
+        "geodesic_distance": 60,
+        "map": "Neighborhood",
+        "object_name": "Statue",
+        "difficulty": "Medium",
+        "description": "Geometric base with organic animal form, bronze metallic deer figure atop red brick pedestal with engraved plaque, realistic antlered posture suggests commemorative or decorative function.",
+        "start_position": [
+                10.678319264141194,
+                107.40428973969928,
+                -10.0
+            ],
+        "object_position": [
+                -14.199999809265137,
+                77.5999984741211,
+                1.0
+            ]
+    },
+    {
+        "task_id": 31,
+        "geodesic_distance": 26,
+        "map": "Neighborhood",
+        "object_name": "Campervan",
+        "difficulty": "Medium",
+        "description": "Geometric rectangular form, beige and brown textured metal body with windows, ladder, and spare tire, integrated side door and living compartment suggest mobile habitation function.",
+        "start_position": [
+                -273.63169355026866,
+                -125.2319772957407,
+                -10.0
+            ],
+        "object_position": [
+                -273.8999938964844,
+                -107.0,
+                1.0
+            ]
+    },
+    {
+        "task_id": 32,
+        "geodesic_distance": 33,
+        "map": "Neighborhood",
+        "object_name": "Blanket",
+        "difficulty": "Medium",
+        "description": "Geometric rectangular form with natural folds, red and white checkered textile surface, soft fabric texture with slight wrinkling, likely used for seating or covering on ground surfaces.",
+        "start_position": [
+                -207.77632399802658,
+                -279.4906426683242,
+                -10.0
+            ],
+        "object_position": [
+                -221.69183349609375,
+                -292.7161865234375,
+                1.0
+            ]
+    },
+    {
+        "task_id": 33,
+        "geodesic_distance": 46,
+        "map": "Neighborhood",
+        "object_name": "Playground",
+        "difficulty": "Medium",
+        "description": "Geometric modular structure, yellow-painted metal and wood frame with red plastic tube slide, includes rope climbing net and enclosed tower sections, designed for children's recreational climbing and sliding activities.",
+        "start_position": [
+                -187.42692330039202,
+                -62.300498648096415,
+                -10.0
+            ],
+        "object_position": [
+                -190.8000030517578,
+                -24.799999237060547,
+                -0.3999999761581421
+            ]
+    },
+    {
+        "task_id": 34,
+        "geodesic_distance": 23,
+        "map": "Neighborhood",
+        "object_name": "Excavator",
+        "difficulty": "Medium",
+        "description": "Geometric articulated structure, industrial yellow and black metal with hydraulic joints, continuous track base and large front bucket, designed for excavation and heavy-duty digging operations.",
+        "start_position": [
+                -163.4419489637779,
+                27.678885237466638,
+                -10.0
+            ],
+        "object_position": [
+                -176.0,
+                31.599998474121094,
+                1.0
+            ]
+    },
+    {
+        "task_id": 35,
+        "geodesic_distance": 28,
+        "map": "Neighborhood",
+        "object_name": "Lifering",
+        "difficulty": "Medium",
+        "description": "Geometric toroidal shape, bright red-orange synthetic material with smooth surface, no visible text or rope, typically used as a flotation safety device in aquatic environments.",
+        "start_position": [
+                -68.84829491976336,
+                -92.90475378894905,
+                -10.0
+            ],
+        "object_position": [
+                -80.5,
+                -103.5,
+                1.1999999284744263
+            ]
+    },
+    {
+        "task_id": 36,
+        "geodesic_distance": 42,
+        "map": "Neighborhood",
+        "object_name": "Chair",
+        "difficulty": "Medium",
+        "description": "Geometric L-shaped form, bright red painted metal or plastic surface, four slender legs with backrest, designed for individual seating.",
+        "start_position": [
+                -192.5233782617048,
+                -9.436168627987222,
+                -10.0
+            ],
+        "object_position": [
+                -204.89999389648438,
+                13.299999237060547,
+                1.0
+            ]
+    },
+    {
+        "task_id": 37,
+        "geodesic_distance": 36,
+        "map": "Neighborhood",
+        "object_name": "Fountain",
+        "difficulty": "Medium",
+        "description": "Geometric circular structure, weathered gray stone with two-tiered basins and central statue, cascading water elements, decorative public water feature function.",
+        "start_position": [
+                -199.18364070039615,
+                -29.00302115294312,
+                -10.0
+            ],
+        "object_position": [
+                -185.0,
+                -45.70000076293945,
+                -0.3999999761581421
+            ]
+    },
+    {
+        "task_id": 38,
+        "geodesic_distance": 18,
+        "map": "Neighborhood",
+        "object_name": "Barrier",
+        "difficulty": "Medium",
+        "description": "Geometric trapezoidal form, solid gray concrete texture with diagonal yellow-red hazard stripes, used for traffic control or restricted access demarcation.",
+        "start_position": [
+                -189.67388903022854,
+                20.75308393284468,
+                -10.0
+            ],
+        "object_position": [
+                -180.6999969482422,
+                21.899999618530273,
+                1.1999999284744263
+            ]
+    },
+    {
+        "task_id": 39,
+        "geodesic_distance": 59,
+        "map": "Neighborhood",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric rounded form, rusted red metal body with matte texture, visible aging and surface corrosion, whitewall tires and classic fender design suggesting mid-20th-century automobile function.",
+        "start_position": [
+                -216.5051771248463,
+                -141.9844961994453,
+                -10.0
+            ],
+        "object_position": [
+                -178.8000030517578,
+                -128.3000030517578,
+                1.0
+            ]
+    },
+    {
+        "task_id": 40,
+        "geodesic_distance": 21,
+        "map": "Slum",
+        "object_name": "WoodenBox",
+        "difficulty": "Medium",
+        "description": " Geometric cubic stack, weathered light brown wood with blue metal corner reinforcements, four stacked crates with rope handles, used for storage or transport of goods.",
+        "start_position": [
+                -37.13412742989271,
+                17.930494969538756,
+                -10.0
+            ],
+        "object_position": [
+                -30.93767547607422,
+                22.27068328857422,
+                3.7200019359588623
+            ]
+    },
+    {
+        "task_id": 41,
+        "geodesic_distance": 45,
+        "map": "Slum",
+        "object_name": "Bottles",
+        "difficulty": "Medium",
+        "description": " Cluster of cylindrical glass containers, green and brown hues, grouped together, likely for liquid storage or decoration.",
+        "start_position": [
+                -9.298758295062527,
+                39.707831157457974,
+                -10.0
+            ],
+        "object_position": [
+                -31.337675094604492,
+                23.47068214416504,
+                1.9200021028518677
+            ]
+    },
+    {
+        "task_id": 42,
+        "geodesic_distance": 32,
+        "map": "Slum",
+        "object_name": "SatDish",
+        "difficulty": "Medium",
+        "description": "Concave circular shape, light gray metallic surface, mounted support arm with central feed horn, used for receiving satellite signals.",
+        "start_position": [
+                -44.33944241626574,
+                15.84005109837085,
+                -10.0
+            ],
+        "object_position": [
+                -35.33767318725586,
+                31.370683670043945,
+                0.22000212967395782
+            ]
+    },
+    {
+        "task_id": 43,
+        "geodesic_distance": 29,
+        "map": "Slum",
+        "object_name": "GrainSilo",
+        "difficulty": "Medium",
+        "description": " Tall cylindrical structure on elevated metal supports, dark metallic texture, ladder attached, used for grain storage.",
+        "start_position": [
+                9.727376907121212,
+                51.865218252046986,
+                -10.0
+            ],
+        "object_position": [
+                5.362324237823486,
+                70.0706787109375,
+                0.42000213265419006
+            ]
+    },
+    {
+        "task_id": 44,
+        "geodesic_distance": 26,
+        "map": "Slum",
+        "object_name": "Hose",
+        "difficulty": "Medium",
+        "description": " Organic coiled shape, green rubber texture wrapped around a narrow vertical metal pole, distinct loop with nozzle visible, used for water dispensing or gardening.",
+        "start_position": [
+                7.593602117897099,
+                29.269154629971887,
+                -10.0
+            ],
+        "object_position": [
+                -4.537675857543945,
+                20.470684051513672,
+                0.5200021266937256
+            ]
+    },
+    {
+        "task_id": 45,
+        "geodesic_distance": 51,
+        "map": "Slum",
+        "object_name": "SignPost",
+        "difficulty": "Medium",
+        "description": " Dual wooden posts with two directional metal arrows, weathered and rusty, used for directional guidance or wayfinding.",
+        "start_position": [
+                71.13417837547125,
+                -16.87244473376876,
+                -10.0
+            ],
+        "object_position": [
+                46.56232452392578,
+                6.070683479309082,
+                -1.6799978017807007
+            ]
+    },
+    {
+        "task_id": 46,
+        "geodesic_distance": 14,
+        "map": "Slum",
+        "object_name": "Apple",
+        "difficulty": "Medium",
+        "description": " Small, rounded shape, red-brown, smooth surface, edible fruit.",
+        "start_position": [
+                -10.352994512251477,
+                40.404605986963695,
+                -10.0
+            ],
+        "object_position": [
+                -9.537675857543945,
+                30.670682907104492,
+                -1.5799977779388428
+            ]
+    },
+    {
+        "task_id": 47,
+        "geodesic_distance": 23,
+        "map": "Slum",
+        "object_name": "Crate",
+        "difficulty": "Medium",
+        "description": "Geometric box shape, dark fabric draped over a weathered wooden frame, subtle irregular folds in the covering, likely used for storage or concealment.",
+        "start_position": [
+                68.62858442240761,
+                -24.895988385044824,
+                -10.0
+            ],
+        "object_position": [
+                57.86232376098633,
+                -16.22931671142578,
+                -1.5799977779388428
+            ]
+    },
+    {
+        "task_id": 48,
+        "geodesic_distance": 40,
+        "map": "Slum",
+        "object_name": "Tractor",
+        "difficulty": "Medium",
+        "description": " Geometric vehicle form, orange and black metal exterior with large textured rubber tires, enclosed cabin and dual rear-view mirrors, designed for agricultural or heavy-duty fieldwork.",
+        "start_position": [
+                26.12459992329397,
+                48.12838934362722,
+                -10.0
+            ],
+        "object_position": [
+                7.76232385635376,
+                62.77068328857422,
+                1.2200020551681519
+            ]
+    },
+    {
+        "task_id": 49,
+        "geodesic_distance": 20,
+        "map": "Slum",
+        "object_name": "Elephant",
+        "difficulty": "Medium",
+        "description": " Large, organic quadruped form, gray textured skin with prominent tusks and large ears, massive body structure, identifiable as a terrestrial animal.",
+        "start_position": [
+                60.16692420177751,
+                -27.418183628406545,
+                -10.0
+            ],
+        "object_position": [
+                66.86231994628906,
+                -18.529315948486328,
+                -1.3799978494644165
+            ]
+    },
+    {
+        "task_id": 50,
+        "geodesic_distance": 26,
+        "map": "UrbanJapan",
+        "object_name": "Manhole",
+        "difficulty": "Medium",
+        "description": "Geometric circular form, rusted brown metal surface with slight dome curvature, flush with ground plane, serves as access cover for underground utilities.",
+        "start_position": [
+                0.8913824746980978,
+                155.12323445458975,
+                -6.400000095367432
+            ],
+        "object_position": [
+                11.59999942779541,
+                166.09999084472656,
+                1.5999999046325684
+            ]
+    },
+    {
+        "task_id": 51,
+        "geodesic_distance": 25,
+        "map": "UrbanJapan",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, gray jumpsuit with yellow gloves and black boots, bald head, walking posture suggests movement or task-oriented activity.",
+        "start_position": [
+                6.446167738720412,
+                150.53464702036894,
+                -7.411499977111816
+            ],
+        "object_position": [
+                12.899999618530273,
+                164.3000030517578,
+                0.5885000228881836
+            ]
+    },
+    {
+        "task_id": 52,
+        "geodesic_distance": 14,
+        "map": "UrbanJapan",
+        "object_name": "ElectricBox",
+        "difficulty": "Medium",
+        "description": "Rectangular, upright metal structure with a flat top, weathered yellow exterior with visible rust and dirt, typical of an outdoor electrical utility box.",
+        "start_position": [
+                13.936573768153089,
+                12.543881325492436,
+                -6.599999785423279
+            ],
+        "object_position": [
+                19.914894104003906,
+                16.50790023803711,
+                1.4000002145767212
+            ]
+    },
+    {
+        "task_id": 53,
+        "geodesic_distance": 49,
+        "map": "UrbanJapan",
+        "object_name": "Dumpster",
+        "difficulty": "Medium",
+        "description": "Large rectangular container on wheels with a hinged lid, dark green metal exterior, ribbed top surface, typical of commercial waste disposal units.",
+        "start_position": [
+                -5.06718424420437,
+                150.45622130927427,
+                -6.600000023841858
+            ],
+        "object_position": [
+                21.299999237060547,
+                131.6999969482422,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 54,
+        "geodesic_distance": 8,
+        "map": "UrbanJapan",
+        "object_name": "Bicycle",
+        "difficulty": "Medium",
+        "description": "Slim, two-wheeled frame with a pastel green exterior, upright handlebars and a black saddle, vintage city bike design with thin tires and step-through frame.",
+        "start_position": [
+                24.219554421570507,
+                125.52709187052699,
+                -6.600000023841858
+            ],
+        "object_position": [
+                22.799999237060547,
+                122.5,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 55,
+        "geodesic_distance": 41,
+        "map": "UrbanJapan",
+        "object_name": "FoodCart",
+        "difficulty": "Medium",
+        "description": "Compact, wheeled metal cart with a large blue and yellow umbrella, advertising signs for snacks and drinks, typical of a street vendor setup for food and beverages.",
+        "start_position": [
+                62.608904174712606,
+                110.64414146822125,
+                -6.600000023841858
+            ],
+        "object_position": [
+                35.89999771118164,
+                103.29999542236328,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 56,
+        "geodesic_distance": 25,
+        "map": "UrbanJapan",
+        "object_name": "RecycleBin",
+        "difficulty": "Medium",
+        "description": "Rectangular geometric container, matte black finish with smooth surfaces, slanted top and flat sides, used for public waste or recycling disposal.",
+        "start_position": [
+                19.45544260645306,
+                130.37800451624213,
+                -6.5
+            ],
+        "object_position": [
+                16.899999618530273,
+                110.5999984741211,
+                1.5
+            ]
+    },
+    {
+        "task_id": 57,
+        "geodesic_distance": 54,
+        "map": "UrbanJapan",
+        "object_name": "Truck",
+        "difficulty": "Medium",
+        "description": "Classic pickup truck with a rounded cab and open bed, mustard yellow exterior, whitewall tires, and vintage styling, typical of a mid-century design.",
+        "start_position": [
+                -27.38282632919012,
+                67.17001937535493,
+                -6.400000095367432
+            ],
+        "object_position": [
+                7.899999618530273,
+                52.69999694824219,
+                1.5999999046325684
+            ]
+    },
+    {
+        "task_id": 58,
+        "geodesic_distance": 55,
+        "map": "UrbanJapan",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Low-profile, open-top race car with a streamlined body, bright blue exterior, exposed wheels and exhaust pipes, classic vintage racing design.",
+        "start_position": [
+                14.638444052821711,
+                39.50310208795045,
+                -6.400000095367432
+            ],
+        "object_position": [
+                -27.099998474121094,
+                48.89999771118164,
+                1.5999999046325684
+            ]
+    },
+    {
+        "task_id": 59,
+        "geodesic_distance": 33,
+        "map": "UrbanJapan",
+        "object_name": "Sculpture",
+        "difficulty": "Medium",
+        "description": "Abstract geometric form, glossy black base with vibrant orange top edges, curved and segmented radial arms extending from a central block, decorative installation likely for public or artistic display.",
+        "start_position": [
+                31.17689752873342,
+                -54.670496060780884,
+                -51.599998474121094
+            ],
+        "object_position": [
+                25.5,
+                -32.0,
+                -43.599998474121094
+            ]
+    },
+    {
+        "task_id": 60,
+        "geodesic_distance": 50,
+        "map": "Venice",
+        "object_name": "Cloth",
+        "difficulty": "Medium",
+        "description": " Organic draped form, muted red textile with subtle wrinkling, soft texture, likely decorative or for shading use.",
+        "start_position": [
+                -2.4570492721282733,
+                1.8867723059400525,
+                -10.0
+            ],
+        "object_position": [
+                -25.502294540405273,
+                24.417001724243164,
+                -1.0799981355667114
+            ]
+    },
+    {
+        "task_id": 61,
+        "geodesic_distance": 27,
+        "map": "Venice",
+        "object_name": "Stump",
+        "difficulty": "Medium",
+        "description": " Organic cylindrical base with flared roots, rough brown bark texture with radial cut top surface, consistent with a tree trunk remnant.",
+        "start_position": [
+                41.539453479386104,
+                23.780899136382686,
+                -10.0
+            ],
+        "object_position": [
+                33.59770584106445,
+                9.217001914978027,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 62,
+        "geodesic_distance": 63,
+        "map": "Venice",
+        "object_name": "Grill",
+        "difficulty": "Medium",
+        "description": " Geometric cylindrical form, blackened metallic surface with vented lid, standing on four slender legs, used for outdoor cooking.",
+        "start_position": [
+                -15.082757321741802,
+                59.89696533669835,
+                -10.0
+            ],
+        "object_position": [
+                20.59770393371582,
+                56.117000579833984,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 63,
+        "geodesic_distance": 42,
+        "map": "Venice",
+        "object_name": "Trailer",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form, corrugated metal surface with rust and moss patches, navy blue and silver tones, multiple windows and a rear hitch indicating mobile living or transport function.",
+        "start_position": [
+                5.707545130119243,
+                34.309785935537136,
+                -10.0
+            ],
+        "object_position": [
+                -22.702295303344727,
+                25.617000579833984,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 64,
+        "geodesic_distance": 23,
+        "map": "Venice",
+        "object_name": "Firewood",
+        "difficulty": "Medium",
+        "description": " Organic rounded pile, stacked light brown logs under a weathered blue tarpaulin, natural wood texture with cylindrical cut ends, likely for fuel or outdoor use.",
+        "start_position": [
+                140.3098524629969,
+                57.6408772213764,
+                -10.0
+            ],
+        "object_position": [
+                123.897705078125,
+                57.71699905395508,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 65,
+        "geodesic_distance": 58,
+        "map": "Venice",
+        "object_name": "Umbrella",
+        "difficulty": "Medium",
+        "description": " Geometric radial form, matte black fabric canopy with central support pole, taut stitched sections and central cap, used for shade provision.",
+        "start_position": [
+                5.976741773714949,
+                79.19592765916008,
+                -10.0
+            ],
+        "object_position": [
+                19.697704315185547,
+                55.01700210571289,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 66,
+        "geodesic_distance": 18,
+        "map": "Venice",
+        "object_name": "Tray",
+        "difficulty": "Medium",
+        "description": "Flat rectangular shape, dark metallic texture, thin and shallow profile, suitable for holding small items or serving purposes.",
+        "start_position": [
+                21.017452172728937,
+                67.61862863430414,
+                -10.0
+            ],
+        "object_position": [
+                19.197704315185547,
+                58.01700210571289,
+                0.12000183016061783
+            ]
+    },
+    {
+        "task_id": 67,
+        "geodesic_distance": 30,
+        "map": "Venice",
+        "object_name": "VendingMachine",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form, glossy red metal casing with transparent front panel, internal grid of drink bottles and digital display, functions as automated beverage dispenser.",
+        "start_position": [
+                138.7599298687062,
+                59.44233822382613,
+                -10.0
+            ],
+        "object_position": [
+                136.49769592285156,
+                81.41699981689453,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 68,
+        "geodesic_distance": 39,
+        "map": "Venice",
+        "object_name": "Statue",
+        "difficulty": "Medium",
+        "description": " Organic seated figure, oxidized bronze and dark stone, detailed clothing folds and facial expression, commemorative sculptural monument.",
+        "start_position": [
+                126.01648009369123,
+                34.13814013218075,
+                -10.0
+            ],
+        "object_position": [
+                135.0977020263672,
+                10.917001724243164,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 69,
+        "geodesic_distance": 60,
+        "map": "Venice",
+        "object_name": "Church",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular and polygonal forms, beige stucco and stone exterior with red gabled tiled roofs, multiple arched stained-glass windows and buttressed corners, religious structure designed for congregational worship.",
+        "start_position": [
+                59.585682926329454,
+                194.9887257905608,
+                -10.0
+            ],
+        "object_position": [
+                23.397705078125,
+                176.7169952392578,
+                0.9200018048286438
+            ]
+    },
+    {
+        "task_id": 70,
+        "geodesic_distance": 19,
+        "map": "WesternTown",
+        "object_name": "Antenna",
+        "difficulty": "Medium",
+        "description": " Tall vertical rod shape, metallic texture with multiple horizontal crossbars and a small top disk, consistent with signal transmission or reception equipment.",
+        "start_position": [
+                12.634220630625826,
+                -3.6178709331404733,
+                -10.0
+            ],
+        "object_position": [
+                2.1781444549560547,
+                -10.616049766540527,
+                -6.70876932144165
+            ]
+    },
+    {
+        "task_id": 71,
+        "geodesic_distance": 29,
+        "map": "WesternTown",
+        "object_name": "GrainSilo",
+        "difficulty": "Medium",
+        "description": "Geometric cylindrical form, matte black metal surface, vertical segmentation with rooftop hatch and attached external ladder, used for bulk grain storage in agricultural settings.",
+        "start_position": [
+                -57.19815559058157,
+                20.600803917681986,
+                -10.0
+            ],
+        "object_position": [
+                -53.42185592651367,
+                2.0839500427246094,
+                1.2912304401397705
+            ]
+    },
+    {
+        "task_id": 72,
+        "geodesic_distance": 28,
+        "map": "WesternTown",
+        "object_name": "SiloStructure",
+        "difficulty": "Medium",
+        "description": " Tall cylindrical frame, dark metal with vertical and spiral supports, octagonal upper rim, likely used for structural support or containment in industrial or agricultural contexts.",
+        "start_position": [
+                -30.748697448152534,
+                7.104923394375653,
+                -10.0
+            ],
+        "object_position": [
+                -35.021854400634766,
+                23.28394889831543,
+                1.2912304401397705
+            ]
+    },
+    {
+        "task_id": 73,
+        "geodesic_distance": 29,
+        "map": "WesternTown",
+        "object_name": "WaterDepot",
+        "difficulty": "Medium",
+        "description": " Cylindrical shape with rounded ends, matte gray metallic texture, features a circular cap on top and a small valve at the rear, likely used for liquid storage or transport.",
+        "start_position": [
+                -56.8765406788828,
+                9.891961358002845,
+                -10.0
+            ],
+        "object_position": [
+                -48.72185516357422,
+                -3.2160496711730957,
+                1.2912304401397705
+            ]
+    },
+    {
+        "task_id": 74,
+        "geodesic_distance": 17,
+        "map": "WesternTown",
+        "object_name": "HangingCloth",
+        "difficulty": "Medium",
+        "description": " Tapered vertical form, soft dark green fabric texture with natural folds, appears suspended or draped, consistent with a small decorative or functional cloth.",
+        "start_position": [
+                120.0589432872422,
+                -349.47998745428094,
+                -10.0
+            ],
+        "object_position": [
+                130.47813415527344,
+                -354.7160339355469,
+                -4.808769226074219
+            ]
+    },
+    {
+        "task_id": 75,
+        "geodesic_distance": 26,
+        "map": "WesternTown",
+        "object_name": "TreeOld",
+        "difficulty": "Medium",
+        "description": "Organic vertical form, dark brown bark with many twisting leafless branches, gnarled trunk with irregular branching pattern, consistent with a deciduous tree in dormant or dead state.",
+        "start_position": [
+                152.68845208578938,
+                -359.3552584463298,
+                -10.0
+            ],
+        "object_position": [
+                173.47813415527344,
+                -361.9160461425781,
+                -2.5087695121765137
+            ]
+    },
+    {
+        "task_id": 76,
+        "geodesic_distance": 17,
+        "map": "WesternTown",
+        "object_name": "SteelLadder",
+        "difficulty": "Medium",
+        "description": "Narrow vertical frame, dark metal texture, evenly spaced rungs, used for climbing or vertical access.",
+        "start_position": [
+                29.673554883165053,
+                32.411116889993195,
+                -10.0
+            ],
+        "object_position": [
+                28.378143310546875,
+                44.1839485168457,
+                -5.908769607543945
+            ]
+    },
+    {
+        "task_id": 77,
+        "geodesic_distance": 19,
+        "map": "WesternTown",
+        "object_name": "Piano",
+        "difficulty": "Medium",
+        "description": " Rectangular upright shape with detailed wooden texture, visible keyboard and carved decorative elements, designed as a musical instrument for playing melodies.",
+        "start_position": [
+                32.09588885127191,
+                31.897492728355672,
+                -10.0
+            ],
+        "object_position": [
+                20.878143310546875,
+                37.6839485168457,
+                -5.408769607543945
+            ]
+    },
+    {
+        "task_id": 78,
+        "geodesic_distance": 15,
+        "map": "WesternTown",
+        "object_name": "Chair",
+        "difficulty": "Medium",
+        "description": " Geometric vertical-back shape, dark wooden texture with slatted backrest and four legs, designed for sitting support.",
+        "start_position": [
+                13.30712294270353,
+                35.24805548056315,
+                -10.0
+            ],
+        "object_position": [
+                22.77814483642578,
+                37.6839485168457,
+                -5.608769416809082
+            ]
+    },
+    {
+        "task_id": 79,
+        "geodesic_distance": 6,
+        "map": "WesternTown",
+        "object_name": "CoveredCrate",
+        "difficulty": "Medium",
+        "description": " Rectangular shape, dark wood base with green cloth draped over the top, cloth cover creates soft rounded corners, appears to conceal cargo or equipment.",
+        "start_position": [
+                24.062955424429887,
+                44.561136791459205,
+                -10.0
+            ],
+        "object_position": [
+                23.878143310546875,
+                47.6839485168457,
+                -5.908769607543945
+            ]
+    },
+    {
+        "task_id": 80,
+        "geodesic_distance": 24,
+        "map": "WinterTown",
+        "object_name": "Barrel",
+        "difficulty": "Medium",
+        "description": " Cylindrical shape, red metallic surface, segmented with horizontal bands and visible denting, used for storage or transport of liquids or materials.",
+        "start_position": [
+                -60.87308062866277,
+                138.3412933853777,
+                -10.0
+            ],
+        "object_position": [
+                -57.39274215698242,
+                119.7072525024414,
+                -3.9712743759155273
+            ]
+    },
+    {
+        "task_id": 81,
+        "geodesic_distance": 56,
+        "map": "WinterTown",
+        "object_name": "BusStop",
+        "difficulty": "Medium",
+        "description": " Rectangular shelter structure, transparent glass and dark metal frame, includes interior bench and angled roof, designed for public transport waiting area.",
+        "start_position": [
+                38.624107585065246,
+                -33.566997255528534,
+                -10.0
+            ],
+        "object_position": [
+                19.307254791259766,
+                -54.49274444580078,
+                11.628725051879883
+            ]
+    },
+    {
+        "task_id": 82,
+        "geodesic_distance": 48,
+        "map": "WinterTown",
+        "object_name": "SignPost",
+        "difficulty": "Medium",
+        "description": " Narrow vertical post with a single horizontal arrow board, rusted metal texture with directional point, used for wayfinding or indicating direction.",
+        "start_position": [
+                -25.64418516932892,
+                -21.018199479574285,
+                -10.0
+            ],
+        "object_position": [
+                -54.19274139404297,
+                -24.6927433013916,
+                11.22872543334961
+            ]
+    },
+    {
+        "task_id": 83,
+        "geodesic_distance": 35,
+        "map": "WinterTown",
+        "object_name": "FoldedTent",
+        "difficulty": "Medium",
+        "description": " Clustered cylindrical shape, brown fabric texture with rope or strap bindings, resembles compacted outdoor shelter, consistent with transportable tent in storage configuration.",
+        "start_position": [
+                193.21713644698974,
+                -184.2897206136036,
+                -10.0
+            ],
+        "object_position": [
+                209.6072540283203,
+                -185.89273071289062,
+                11.528725624084473
+            ]
+    },
+    {
+        "task_id": 84,
+        "geodesic_distance": 61,
+        "map": "WinterTown",
+        "object_name": "PoliceCar",
+        "difficulty": "Medium",
+        "description": " Rectangular vehicle shape, white exterior with black accents, roof-mounted red light bar and NYPD markings on side, equipped for law enforcement use.",
+        "start_position": [
+                -57.54718464339718,
+                -80.73714284473374,
+                -10.0
+            ],
+        "object_position": [
+                -51.99274444580078,
+                -43.592742919921875,
+                11.82872486114502
+            ]
+    },
+    {
+        "task_id": 85,
+        "geodesic_distance": 90,
+        "map": "WinterTown",
+        "object_name": "Taxi",
+        "difficulty": "Medium",
+        "description": " Rectangular vehicle shape, bright yellow color, roof-mounted taxi sign and NYC Taxi markings on side, used for passenger transport.",
+        "start_position":[
+                34.819158495193065,
+                -86.91247099071342,
+                -10.0
+            ],
+        "object_position": [
+                -0.5927441120147705,
+                -49.092742919921875,
+                11.82872486114502
+            ]
+    },
+    {
+        "task_id": 86,
+        "geodesic_distance": 43,
+        "map": "WinterTown",
+        "object_name": "Piano",
+        "difficulty": "Medium",
+        "description": " Rectangular upright shape, dark wooden texture with ornate side carvings, visible keyboard section and foot pedals, designed for musical performance.",
+        "start_position": [
+                -60.962434194796906,
+                -78.36338434835673,
+                -10.0
+            ],
+        "object_position": [
+                -75.49274444580078,
+                -66.79273986816406,
+                11.82872486114502
+            ]
+    },
+    {
+        "task_id": 87,
+        "geodesic_distance": 35,
+        "map": "WinterTown",
+        "object_name": "WoodTower",
+        "difficulty": "Medium",
+        "description": " Geometric elevated structure, dark wood planks and support braces, vertical stilts with cross-bracing, used for surveillance or lookout purposes.",
+        "start_position": [
+                -68.35533905709961,
+                182.4356057702523,
+                -10.0
+            ],
+        "object_position": [
+                -40.592742919921875,
+                187.20726013183594,
+                -3.87127423286438
+            ]
+    },
+    {
+        "task_id": 88,
+        "geodesic_distance": 40,
+        "map": "WinterTown",
+        "object_name": "TreeOld",
+        "difficulty": "Medium",
+        "description": " Organic vertical form, dark brown bark with many twisting leafless branches, gnarled trunk with irregular branching pattern, consistent with a deciduous tree in dormant or dead state.",
+        "start_position": [
+                -12.53265841168988,
+                -2.877092040364829,
+                -10.0
+            ],
+        "object_position": [
+                -1.8927440643310547,
+                19.50725555419922,
+                0.92872554063797
+            ]
+    },
+    {
+        "task_id": 89,
+        "geodesic_distance": 28,
+        "map": "WinterTown",
+        "object_name": "Fountain",
+        "difficulty": "Medium",
+        "description": " Tiered circular structure, smooth white stone texture, features three ascending basins with central column, functionally designed for decorative water display.",
+        "start_position": [
+                -81.45959660653361,
+                -73.3974143678434,
+                -10.0
+            ],
+        "object_position": [
+                -80.79273986816406,
+                -63.89274215698242,
+                11.82872486114502
+            ]
+    },
+    {
+        "task_id": 90,
+        "geodesic_distance": 32,
+        "map": "Barnyard",
+        "object_name": "BusStop",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular structure, transparent glass walls with dark metal framing, includes bench seating and overhanging roof panels, designed for public transit waiting area.",
+        "start_position": [
+                -315.54652297695026,
+                -71.80027140110892,
+                -10.0
+            ],
+        "object_position": [
+                -328.3927307128906,
+                -86.79273986816406,
+                0.6287254095077515
+            ]
+    },
+    {
+        "task_id": 91,
+        "geodesic_distance": 10,
+        "map": "Barnyard",
+        "object_name": "TrafficLight",
+        "difficulty": "Medium",
+        "description": " Geometric vertical structure, dark green metallic texture with signal lights, three stacked circular lenses in standard red-yellow-green arrangement, used for controlling vehicle and pedestrian traffic.",
+        "start_position": [
+                -9.528005566856024,
+                -66.4447527048503,
+                -10.0
+            ],
+        "object_position": [
+                -4.092743873596191,
+                -67.59274291992188,
+                -2.9712743759155273
+            ]
+    },
+    {
+        "task_id": 92,
+        "geodesic_distance": 41,
+        "map": "Barnyard",
+        "object_name": "Caravan",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form with curved roof, weathered metal surface with green moss and rust patches, multiple windows and rear lights, designed for mobile habitation or towing.",
+        "start_position": [
+                -100.00142523242953,
+                -52.88343985664438,
+                -10.0
+            ],
+        "object_position": [
+                -98.39273834228516,
+                -21.292743682861328,
+                1.7287254333496094
+            ]
+    },
+    {
+        "task_id": 93,
+        "geodesic_distance": 60,
+        "map": "Barnyard",
+        "object_name": "Lantern",
+        "difficulty": "Medium",
+        "description": " Geometric cylindrical form, metallic blue body with glass enclosure, top-mounted handle and base support, used for portable illumination.",
+        "start_position": [
+                35.654368290882985,
+                -21.96769892184308,
+                -10.0
+            ],
+        "object_position": [
+                65.60725402832031,
+                -40.99274444580078,
+                5.428725242614746
+            ]
+    },
+    {
+        "task_id": 94,
+        "geodesic_distance": 32,
+        "map": "Barnyard",
+        "object_name": "SignStop",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular structure, transparent glass walls with dark metal framing, includes bench seating and overhanging roof panels, designed for public transit waiting area.",
+        "start_position": [
+                -315.54652297695026,
+                -71.80027140110892,
+                -10.0
+            ],
+        "object_position": [
+                -328.3927307128906,
+                -86.79273986816406,
+                0.6287254095077515
+            ]
+    },
+    {
+        "task_id": 95,
+        "geodesic_distance": 60,
+        "map": "Barnyard",
+        "object_name": "Playground",
+        "difficulty": "Medium",
+        "description": " Geometric modular structure, yellow-painted wood and red plastic, curved tube slide with rope climbing net and ladder steps, designed for children's recreational play.",
+        "start_position": [
+                -140.04161056069867,
+                -232.02151874317585,
+                -10.0
+            ],
+        "object_position": [
+                -101.89273834228516,
+                -244.19273376464844,
+                3.5287256240844727
+            ]
+    },
+    {
+        "task_id": 96,
+        "geodesic_distance": 69,
+        "map": "Barnyard",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": " Geometric four-door sedan form, matte blue paint with black-tinted windows and alloy wheels, rear spoiler and full set of body panels, used for personal ground transportation.",
+        "start_position": [
+                -98.69272280457143,
+                -76.99029892485304,
+                -10.0
+            ],
+        "object_position": [
+                -77.39274597167969,
+                -38.69274139404297,
+                2.2287254333496094
+            ]
+    },
+    {
+        "task_id": 97,
+        "geodesic_distance": 24,
+        "map": "Barnyard",
+        "object_name": "Bull",
+        "difficulty": "Medium",
+        "description": " Organic muscular form, reddish-brown coat with lighter speckling, prominent wide-spanning horns and sturdy build, suitable for farm or livestock environment.",
+        "start_position": [
+                47.69476023756585,
+                314.4606489186109,
+                -10.0
+            ],
+        "object_position": [
+                52.00725555419922,
+                298.4072570800781,
+                -2.5712742805480957
+            ]
+    },
+    {
+        "task_id": 98,
+        "geodesic_distance": 33,
+        "map": "Barnyard",
+        "object_name": "Tent",
+        "difficulty": "Medium",
+        "description": " Geometric dome-like form, deep blue fabric with yellow trim and tension rods, taut surface with visible seams, used for outdoor shelter or camping.",
+        "start_position": [
+                -178.84925950766097,
+                140.11065228596107,
+                -10.0
+            ],
+        "object_position": [
+                -203.99273681640625,
+                137.1072540283203,
+                -0.6712745428085327
+            ]
+    },
+    {
+        "task_id": 99,
+        "geodesic_distance": 44,
+        "map": "Barnyard",
+        "object_name": "Truck",
+        "difficulty": "Medium",
+        "description": " Geometric rectangular form, industrial orange and black body with six wheels and a debris-filled cargo bed, bold \"steel\" branding on cab and sides, used for heavy-duty material transport.",
+        "start_position": [
+                -145.62128359585262,
+                -89.33258409721105,
+                -10.0
+            ],
+        "object_position": [
+                -120.49274444580078,
+                -81.59274291992188,
+                4.728725433349609
+            ]
+    },
+    {
+        "task_id": 100,
+        "geodesic_distance": 40,
+        "map": "CityStreet",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic bipedal form, white shirt with dark blue skirt and headband, carrying a black jacket or bag, civilian attire with no specific function evident.",
+        "start_position": [
+                -248.34581107155924,
+                -57.78131395114664,
+                -8.343911588191986
+            ],
+        "object_position": [
+                -267.8616638183594,
+                -41.29999923706055,
+                -0.3439115881919861
+            ]
+    },
+    {
+        "task_id": 101,
+        "geodesic_distance": 61,
+        "map": "CityStreet",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric low-profile coupe form, metallic orange finish with dark tinted windows and sport rims, sleek aerodynamic shape with dual exhausts, designed for personal road transport.",
+        "start_position": [
+                -17.01562058400505,
+                49.217594377346316,
+                -6.779993176460266
+            ],
+        "object_position": [
+                -15.299999237060547,
+                71.5999984741211,
+                1.2200068235397339
+            ]
+    },
+    {
+        "task_id": 102,
+        "geodesic_distance": 29,
+        "map": "CityStreet",
+        "object_name": "Truck",
+        "difficulty": "Medium",
+        "description": "Geometric boxy form, matte gray metal surface with black trim, dual rear doors and small cabin windows, suitable for cargo transport or delivery services.",
+        "start_position": [
+                -249.42089532845426,
+                44.08719937459435,
+                -6.779993176460266
+            ],
+        "object_position": [
+                -230.89999389648438,
+                37.89999771118164,
+                1.2200068235397339
+            ]
+    },
+    {
+        "task_id": 103,
+        "geodesic_distance": 26,
+        "map": "CityStreet",
+        "object_name": "Excavator",
+        "difficulty": "Medium",
+        "description": "Long tracked base with articulated arm and large bucket, yellow and black exterior with \"Steel\" branding, heavy-duty construction equipment designed for digging and earthmoving.",
+        "start_position": [
+                -68.84059707785013,
+                -75.33243684314743,
+                -6.779993176460266
+            ],
+        "object_position": [
+                -57.599998474121094,
+                -65.9000015258789,
+                1.2200068235397339
+            ]
+    },
+    {
+        "task_id": 104,
+        "geodesic_distance": 42,
+        "map": "CityStreet",
+        "object_name": "RoadBarrier",
+        "difficulty": "Medium",
+        "description": "Rectangular form with dual openings, red plastic structure with yellow cap, used for road blocking and traffic control.",
+        "start_position": [
+                -103.41046891421632,
+                -56.612273072843664,
+                -6.779993176460266
+            ],
+        "object_position": [
+                -69.4000015258789,
+                -60.0,
+                1.2200068235397339
+            ]
+    },
+    {
+        "task_id": 105,
+        "geodesic_distance": 8,
+        "map": "CityStreet",
+        "object_name": "Sandbox",
+        "difficulty": "Medium",
+        "description": "Circular structure, dark rubber tire edging with sandy interior, reinforced with a low concrete wall, used for children's play or outdoor activities.",
+        "start_position": [
+                89.70731304181567,
+                -52.15252999389995,
+                -7.179993152618408
+            ],
+        "object_position": [
+                91.0999984741211,
+                -54.69999694824219,
+                0.8200068473815918
+            ]
+    },
+    {
+        "task_id": 106,
+        "geodesic_distance": 43,
+        "map": "CityStreet",
+        "object_name": "VendingMachine",
+        "difficulty": "Medium",
+        "description": "Rectangular form, red with white top section, glass display with visible products, used for dispensing snacks and beverages.",
+        "start_position": [
+                13.890097361928454,
+                22.53101907198323,
+                -6.979993104934692
+            ],
+        "object_position": [
+                -17.0,
+                12.799999237060547,
+                1.0200068950653076
+            ]
+    },
+    {
+        "task_id": 107,
+        "geodesic_distance": 19,
+        "map": "CityStreet",
+        "object_name": "SignBoard",
+        "difficulty": "Medium",
+        "description": "Rectangular form, white surface with printed text, folding stand structure, used for displaying information or warnings.",
+        "start_position": [
+                1.6535227844205451,
+                13.053802112396326,
+                -7.0057637095451355
+            ],
+        "object_position": [
+                15.7886323928833,
+                12.758305549621582,
+                0.9942362904548645
+            ]
+    },
+    {
+        "task_id": 108,
+        "geodesic_distance": 33,
+        "map": "CityStreet",
+        "object_name": "Chimney",
+        "difficulty": "Medium",
+        "description": "Vertical cylindrical structure with a slanted roof, made of grey stone, designed for venting smoke, with an open top for airflow.",
+        "start_position": [
+                47.20379624605253,
+                7.5313266899873454,
+                -19.27999210357666
+            ],
+        "object_position": [
+                28.099998474121094,
+                16.600000381469727,
+                -11.27999210357666
+            ]
+    },
+    {
+        "task_id": 109,
+        "geodesic_distance": 32,
+        "map": "CityStreet",
+        "object_name": "StatueTurtle",
+        "difficulty": "Medium",
+        "description": "Turtle-shaped sculpture, bronze-like texture with detailed shell, designed for ornamental or decorative purposes.",
+        "start_position": [
+                123.78329211325799,
+                -32.536661334655456,
+                -7.09967041015625
+            ],
+        "object_position": [
+                96.7835464477539,
+                -31.027597427368164,
+                0.90032958984375
+            ]
+    },
+    {
+        "task_id": 110,
+        "geodesic_distance": 25,
+        "map": "NYC",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, light blue shirt with dark blue pants and dark hair, casual outfit with natural movement, represents an everyday civilian figure.",
+        "start_position": [
+                340.34893709549885,
+                134.17764252992714,
+                -7.779487311840057
+            ],
+        "object_position": [
+                352.3999938964844,
+                125.89999389648438,
+                0.22051268815994263
+            ]
+    },
+    {
+        "task_id": 111,
+        "geodesic_distance": 52,
+        "map": "NYC",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric four-wheeled form, worn metallic green exterior with rust and dirt patches, four-door design with tinted windows, suitable for ground transportation.",
+        "start_position": [
+                192.28589817691216,
+                978.8966861059641,
+                -6.600000023841858
+            ],
+        "object_position": [
+                145.1999969482422,
+                977.3999633789062,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 112,
+        "geodesic_distance": 52,
+        "map": "NYC",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric four-wheeled form, worn metallic green exterior with rust and dirt patches, four-door design with tinted windows, suitable for ground transportation.",
+        "start_position": [
+                429.17421536774106,
+                837.7363161074486,
+                -6.600000023841858
+            ],
+        "object_position": [
+                466.3999938964844,
+                842.5999755859375,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 113,
+        "geodesic_distance": 47,
+        "map": "NYC",
+        "object_name": "Boat",
+        "difficulty": "Medium",
+        "description": "Geometric elongated form, weathered wooden texture with visible planks and ribs, open hull with pointed bow, designed for floating transport on water.",
+        "start_position": [
+                196.90714409068596,
+                336.7132549722253,
+                -5.900000095367432
+            ],
+        "object_position": [
+                202.09999084472656,
+                365.1000061035156,
+                2.0999999046325684
+            ]
+    },
+    {
+        "task_id": 114,
+        "geodesic_distance": 21,
+        "map": "NYC",
+        "object_name": "Truck",
+        "difficulty": "Medium",
+        "description": "Geometric boxy form, matte gray exterior with double rear doors and small side window, riveted metal paneling with black trim, designed for cargo transport or delivery use.",
+        "start_position": [
+                12.95720280140874,
+                845.1618575195362,
+                -6.600000023841858
+            ],
+        "object_position": [
+                24.899999618530273,
+                839.5999755859375,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 115,
+        "geodesic_distance": 31,
+        "map": "NYC",
+        "object_name": "Camper",
+        "difficulty": "Medium",
+        "description": "Geometric boxy vehicle form, beige exterior with horizontal stripes and integrated windows, features include rear ladder and spare tire, designed for mobile living or travel accommodation.",
+        "start_position": [
+                107.65445565581145,
+                83.17525030244992,
+                -6.600000023841858
+            ],
+        "object_position": [
+                100.4000015258789,
+                102.5999984741211,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 116,
+        "geodesic_distance": 16,
+        "map": "NYC",
+        "object_name": "Sandbox",
+        "difficulty": "Medium",
+        "description": "Circular enclosed structure, gray concrete rim with embedded black tires forming a repeating arch pattern, sandy interior surface, designed for children's play.",
+        "start_position": [
+                274.8570329788753,
+                473.97214684595843,
+                -7.0
+            ],
+        "object_position": [
+                274.79998779296875,
+                461.0999755859375,
+                1.0
+            ]
+    },
+    {
+        "task_id": 117,
+        "geodesic_distance": 24,
+        "map": "NYC",
+        "object_name": "Fountain",
+        "difficulty": "Medium",
+        "description": "Geometric circular structure, light stone material with tiered central spout, octagonal base around spout and wide circular basin, used as a decorative water feature.",
+        "start_position": [
+                453.70556013556654,
+                690.471848215105,
+                -6.7821338176727295
+            ],
+        "object_position": [
+                437.0509948730469,
+                685.9312133789062,
+                1.2178661823272705
+            ]
+    },
+    {
+        "task_id": 118,
+        "geodesic_distance": 30,
+        "map": "NYC",
+        "object_name": "Rowboat",
+        "difficulty": "Medium",
+        "description": "Wooden rowing boat, dark brown hull with multiple oars extending from the sides, elongated and open structure, designed for manual paddling on water.",
+        "start_position": [
+                190.86157052841602,
+                629.1172095808088,
+                -6.200000047683716
+            ],
+        "object_position": [
+                206.5,
+                638.7000122070312,
+                1.7999999523162842
+            ]
+    },
+    {
+        "task_id": 119,
+        "geodesic_distance": 23,
+        "map": "NYC",
+        "object_name": "Chair",
+        "difficulty": "Medium",
+        "description": "Geometric upright form, solid red plastic or metal surface, simple backrest and four straight legs, intended for single-person seating.",
+        "start_position": [
+                156.2168126716022,
+                660.990548932176,
+                -7.9000000059604645
+            ],
+        "object_position": [
+                171.09999084472656,
+                656.2999877929688,
+                0.09999999403953552
+            ]
+    }
+]

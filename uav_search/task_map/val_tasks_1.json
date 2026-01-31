@@ -1,0 +1,236 @@
+[
+    {
+        "task_id": 107,
+        "geodesic_distance": 19,
+        "map": "CityStreet",
+        "object_name": "SignBoard",
+        "difficulty": "Medium",
+        "description": "Rectangular form, white surface with printed text, folding stand structure, used for displaying information or warnings.",
+        "start_position": [
+                1.6535227844205451,
+                13.053802112396326,
+                -7.0057637095451355
+            ],
+        "object_position": [
+                15.7886323928833,
+                12.758305549621582,
+                0.9942362904548645
+            ]
+    },
+    {
+        "task_id": 108,
+        "geodesic_distance": 33,
+        "map": "CityStreet",
+        "object_name": "Chimney",
+        "difficulty": "Medium",
+        "description": "Vertical cylindrical structure with a slanted roof, made of grey stone, designed for venting smoke, with an open top for airflow.",
+        "start_position": [
+                47.20379624605253,
+                7.5313266899873454,
+                -19.27999210357666
+            ],
+        "object_position": [
+                28.099998474121094,
+                16.600000381469727,
+                -11.27999210357666
+            ]
+    },
+    {
+        "task_id": 109,
+        "geodesic_distance": 32,
+        "map": "CityStreet",
+        "object_name": "StatueTurtle",
+        "difficulty": "Medium",
+        "description": "Turtle-shaped sculpture, bronze-like texture with detailed shell, designed for ornamental or decorative purposes.",
+        "start_position": [
+                123.78329211325799,
+                -32.536661334655456,
+                -7.09967041015625
+            ],
+        "object_position": [
+                96.7835464477539,
+                -31.027597427368164,
+                0.90032958984375
+            ]
+    },
+    {
+        "task_id": 110,
+        "geodesic_distance": 25,
+        "map": "NYC",
+        "object_name": "Human",
+        "difficulty": "Medium",
+        "description": "Organic upright form, light blue shirt with dark blue pants and dark hair, casual outfit with natural movement, represents an everyday civilian figure.",
+        "start_position": [
+                340.34893709549885,
+                134.17764252992714,
+                -7.779487311840057
+            ],
+        "object_position": [
+                352.3999938964844,
+                125.89999389648438,
+                0.22051268815994263
+            ]
+    },
+    {
+        "task_id": 111,
+        "geodesic_distance": 52,
+        "map": "NYC",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric four-wheeled form, worn metallic green exterior with rust and dirt patches, four-door design with tinted windows, suitable for ground transportation.",
+        "start_position": [
+                192.28589817691216,
+                978.8966861059641,
+                -6.600000023841858
+            ],
+        "object_position": [
+                145.1999969482422,
+                977.3999633789062,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 112,
+        "geodesic_distance": 52,
+        "map": "NYC",
+        "object_name": "Car",
+        "difficulty": "Medium",
+        "description": "Geometric four-wheeled form, worn metallic green exterior with rust and dirt patches, four-door design with tinted windows, suitable for ground transportation.",
+        "start_position": [
+                429.17421536774106,
+                837.7363161074486,
+                -6.600000023841858
+            ],
+        "object_position": [
+                466.3999938964844,
+                842.5999755859375,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 113,
+        "geodesic_distance": 47,
+        "map": "NYC",
+        "object_name": "Boat",
+        "difficulty": "Medium",
+        "description": "Geometric elongated form, weathered wooden texture with visible planks and ribs, open hull with pointed bow, designed for floating transport on water.",
+        "start_position": [
+                196.90714409068596,
+                336.7132549722253,
+                -5.900000095367432
+            ],
+        "object_position": [
+                202.09999084472656,
+                365.1000061035156,
+                2.0999999046325684
+            ]
+    },
+    {
+        "task_id": 114,
+        "geodesic_distance": 21,
+        "map": "NYC",
+        "object_name": "Truck",
+        "difficulty": "Medium",
+        "description": "Geometric boxy form, matte gray exterior with double rear doors and small side window, riveted metal paneling with black trim, designed for cargo transport or delivery use.",
+        "start_position": [
+                12.95720280140874,
+                845.1618575195362,
+                -6.600000023841858
+            ],
+        "object_position": [
+                24.899999618530273,
+                839.5999755859375,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 115,
+        "geodesic_distance": 31,
+        "map": "NYC",
+        "object_name": "Camper",
+        "difficulty": "Medium",
+        "description": "Geometric boxy vehicle form, beige exterior with horizontal stripes and integrated windows, features include rear ladder and spare tire, designed for mobile living or travel accommodation.",
+        "start_position": [
+                107.65445565581145,
+                83.17525030244992,
+                -6.600000023841858
+            ],
+        "object_position": [
+                100.4000015258789,
+                102.5999984741211,
+                1.399999976158142
+            ]
+    },
+    {
+        "task_id": 116,
+        "geodesic_distance": 16,
+        "map": "NYC",
+        "object_name": "Sandbox",
+        "difficulty": "Medium",
+        "description": "Circular enclosed structure, gray concrete rim with embedded black tires forming a repeating arch pattern, sandy interior surface, designed for children's play.",
+        "start_position": [
+                274.8570329788753,
+                473.97214684595843,
+                -7.0
+            ],
+        "object_position": [
+                274.79998779296875,
+                461.0999755859375,
+                1.0
+            ]
+    },
+    {
+        "task_id": 117,
+        "geodesic_distance": 24,
+        "map": "NYC",
+        "object_name": "Fountain",
+        "difficulty": "Medium",
+        "description": "Geometric circular structure, light stone material with tiered central spout, octagonal base around spout and wide circular basin, used as a decorative water feature.",
+        "start_position": [
+                453.70556013556654,
+                690.471848215105,
+                -6.7821338176727295
+            ],
+        "object_position": [
+                437.0509948730469,
+                685.9312133789062,
+                1.2178661823272705
+            ]
+    },
+    {
+        "task_id": 118,
+        "geodesic_distance": 30,
+        "map": "NYC",
+        "object_name": "Rowboat",
+        "difficulty": "Medium",
+        "description": "Wooden rowing boat, dark brown hull with multiple oars extending from the sides, elongated and open structure, designed for manual paddling on water.",
+        "start_position": [
+                190.86157052841602,
+                629.1172095808088,
+                -6.200000047683716
+            ],
+        "object_position": [
+                206.5,
+                638.7000122070312,
+                1.7999999523162842
+            ]
+    },
+    {
+        "task_id": 119,
+        "geodesic_distance": 23,
+        "map": "NYC",
+        "object_name": "Chair",
+        "difficulty": "Medium",
+        "description": "Geometric upright form, solid red plastic or metal surface, simple backrest and four straight legs, intended for single-person seating.",
+        "start_position": [
+                156.2168126716022,
+                660.990548932176,
+                -7.9000000059604645
+            ],
+        "object_position": [
+                171.09999084472656,
+                656.2999877929688,
+                0.09999999403953552
+            ]
+    }
+]
