@@ -44,7 +44,7 @@ def generate_object_description(rgb_base64, object_description) -> dict:
 
     try:
         response = MultiModalConversation.call(
-            api_key="sk-fa96b14b455f46cc8ced380cba93068d",
+            api_key="your_api_key",
             model="qwen-vl-max",
             messages=messages
         )
